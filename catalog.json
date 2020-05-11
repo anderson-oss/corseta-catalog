@@ -131,22 +131,6 @@
     ]
   },
   {
-    "tags": ["spring", "full-price"],
-    "collections": ["low-budget", "shoes", "seasonal"],
-    "ProductID": "608",
-    "Brand": "Shoedazed",
-    "SKU": "PBR-987",
-    "ProductName": "Pointed Shallow Toe Shoes",
-    "Quantity": 1,
-    "ItemPrice": 143.22,
-    "RowTotal": 143.22,
-    "ProductURL": "https://wwww.corseta-republic.com/catalog_main/products/products/08",
-    "ImageURL": "https://shoedazed.com/image/cache/catalog/Asumer//ASUMER-2019-new-pumps-women-shoes-pointed-toe-shallow-high-heels-shoes-flock-prom-wedding-shoes-floc-32972390175-9044-550x550.jpeg",
-    "ProductCategories": [
-      "Female"
-    ]
-  },
-  {
     "tags": ["summmer", "full-price"],
     "collections": ["blowout-collection", "shoes", "seasonal"],
     "ProductID": "609",
