@@ -6,22 +6,5 @@
     "vendor": "Corseta Republic",
     "tags": "Cocktail Attire, Evening Wear, Leather, Wedding",
     "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
-
-  },
-  {
-    "id": 001,
-    "sku": "HUY465",
-    "title": "dress",
-    "vendor": "Corseta Republic",
-    "tags": "Cocktail Attire, Evening Wear",
-    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/dress"
-  },
-  {
-    "id": 002,
-    "sku": "MNJ370",
-    "title": "shoes",
-    "vendor": "Corseta Republic",
-    "tags": "Cocktail Attire, Evening Wear, Leather, Wedding",
-    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/shoes"
   }
 ]
