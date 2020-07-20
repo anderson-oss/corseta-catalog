@@ -5,6 +5,8 @@
     "title": "blazer",
     "vendor": "Corseta Republic",
     "tags": "Cocktail Attire, Evening Wear, Leather, Wedding",
-    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer",
+    "description": "this is a coll product",
+    "link": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
   }
 ]
