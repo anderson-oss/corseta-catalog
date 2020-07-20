@@ -1,12 +1,12 @@
 [
   {
-    "id": 0,
-    "sku": "JUY679",
-    "title": "blazer",
-    "vendor": "Corseta Republic",
-    "tags": "Cocktail Attire, Evening Wear, Leather, Wedding",
-    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer",
-    "description": "this is a cool product",
-    "link": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
+    "ID": 0,
+    "SKU": "JUY679",
+    "Title": "blazer",
+    "Vendor": "Corseta Republic",
+    "Tags": "Cocktail Attire, Evening Wear, Leather, Wedding",
+    "Image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer",
+    "ProductDescription": "this is a cool product",
+    "Link": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
   }
 ]
