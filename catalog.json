@@ -1,12 +1,131 @@
-[
-  {
-    "ID": 0,
-    "SKU": "JUU079",
-    "Title": "blazer",
-    "Vendor": "Corseta Republic",
-    "Tags": "Cocktail Attire, Evening Wear, Leather, Wedding",
-    "Image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer",
-    "ProductDescription": "this is a cool product",
-    "Link": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
-  }
-]
+[{
+	"id": 8,
+	"name": "Awesome Blazer",
+	"slug": "awesome-product",
+	"permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/awesome-product",
+	"date_created": "2020-07-22T11:43:39",
+	"date_created_gmt": "2020-07-22T11:43:39",
+	"date_modified": "2020-07-22T11:44:03",
+	"date_modified_gmt": "2020-07-22T11:44:03",
+	"type": "simple",
+	"status": "publish",
+	"featured": false,
+	"catalog_visibility": "visible",
+	"description": "<p>this is my awesome product, buy it!</p>\n",
+	"short_description": "",
+	"sku": "HUY653",
+	"price": "30",
+	"regular_price": "167.99",
+	"sale_price": "30",
+	"date_on_sale_from": "None",
+	"date_on_sale_from_gmt": "None",
+	"date_on_sale_to": "None",
+	"date_on_sale_to_gmt": "None",
+	"price_html": "<del><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>167.99</span></del> <ins><span class=\"woocommerce-Price-amount amount\"><span class=\"woocommerce-Price-currencySymbol\">&#36;</span>30.00</span></ins>",
+	"on_sale": true,
+	"purchasable": true,
+	"total_sales": 0,
+	"virtual": false,
+	"downloadable": false,
+	"downloads": [
+
+	],
+	"download_limit": -1,
+	"download_expiry": -1,
+	"external_url": "",
+	"button_text": "",
+	"tax_status": "taxable",
+	"tax_class": "",
+	"manage_stock": false,
+	"stock_quantity": "None",
+	"stock_status": "instock",
+	"backorders": "no",
+	"backorders_allowed": false,
+	"backordered": false,
+	"sold_individually": false,
+	"weight": "",
+	"dimensions": {
+		"length": "",
+		"width": "",
+		"height": ""
+	},
+	"shipping_required": true,
+	"shipping_taxable": true,
+	"shipping_class": "",
+	"shipping_class_id": 0,
+	"reviews_allowed": true,
+	"average_rating": "0.00",
+	"rating_count": 0,
+	"related_ids": [
+
+	],
+	"upsell_ids": [
+
+	],
+	"cross_sell_ids": [
+
+	],
+	"parent_id": 0,
+	"purchase_note": "",
+	"categories": [{
+			"id": 16,
+			"name": "men collection",
+			"slug": "men-collection"
+		},
+		{
+			"id": 17,
+			"name": "summer discount",
+			"slug": "summer-discount"
+		}
+	],
+	"tags": [{
+			"id": 18,
+			"name": "blazer",
+			"slug": "blazer"
+		},
+		{
+			"id": 20,
+			"name": "cool",
+			"slug": "cool"
+		},
+		{
+			"id": 19,
+			"name": "style",
+			"slug": "style"
+		}
+	],
+	"images": [{
+		"id": 9,
+		"date_created": "2020-07-22T11:41:38",
+		"date_created_gmt": "2020-07-22T11:41:38",
+		"date_modified": "2020-07-22T11:42:37",
+		"date_modified_gmt": "2020-07-22T11:42:37",
+		"src": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer",
+		"name": "blazer",
+		"alt": "alt baby"
+	}],
+	"attributes": [
+
+	],
+	"default_attributes": [
+
+	],
+	"variations": [
+
+	],
+	"grouped_products": [
+
+	],
+	"menu_order": 0,
+	"meta_data": [
+
+	],
+	"_links": {
+		"self": [{
+			"href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/8"
+		}],
+		"collection": [{
+			"href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+		}]
+	}
+}]
