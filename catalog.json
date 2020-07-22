@@ -2,7 +2,7 @@
 	"id": 8,
 	"name": "Awesome Blazer",
 	"slug": "awesome-product",
-	"permalink": "https://woocommerce-445662-1395830.cloudwaysapps.com/product/awesome-product",
+	"permalink": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer",
 	"date_created": "2020-07-22T11:43:39",
 	"date_created_gmt": "2020-07-22T11:43:39",
 	"date_modified": "2020-07-22T11:44:03",
@@ -122,10 +122,10 @@
 	],
 	"_links": {
 		"self": [{
-			"href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products/8"
+			"href": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
 		}],
 		"collection": [{
-			"href": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-json/wc/v3/products"
+			"href": "https://corseta-product-images.s3.us-east-2.amazonaws.com/blazer"
 		}]
 	}
 }]
