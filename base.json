@@ -18,10 +18,6 @@
     "price": "134",
     "regular_price": "134",
     "sale_price": "",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>134.00</span>",
     "on_sale": false,
     "purchasable": true,
@@ -36,7 +32,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -78,18 +73,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 29,
-        "date_created": "2020-07-27T20:13:09",
-        "date_created_gmt": "2020-07-27T20:13:09",
-        "date_modified": "2020-07-27T20:13:09",
-        "date_modified_gmt": "2020-07-27T20:13:09",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Aleena_Patent_Slide_Sandals-1.jpg",
-        "name": "Aleena_Patent_Slide_Sandals (1)",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Aleena_Patent_Slide_Sandals-1.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -134,10 +118,6 @@
     "price": "198",
     "regular_price": "198",
     "sale_price": "",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>198.00</span>",
     "on_sale": false,
     "purchasable": true,
@@ -152,7 +132,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -194,18 +173,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 34,
-        "date_created": "2020-07-27T20:13:10",
-        "date_created_gmt": "2020-07-27T20:13:10",
-        "date_modified": "2020-07-27T20:13:10",
-        "date_modified_gmt": "2020-07-27T20:13:10",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Anny_Patent_Leather_Pointed_Pumps.jpg",
-        "name": "Anny_Patent_Leather_Pointed_Pumps",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Anny_Patent_Leather_Pointed_Pumps.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -250,10 +218,6 @@
     "price": "148.78",
     "regular_price": "148.78",
     "sale_price": "",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>148.78</span>",
     "on_sale": false,
     "purchasable": true,
@@ -268,7 +232,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -310,18 +273,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 26,
-        "date_created": "2020-07-27T20:13:08",
-        "date_created_gmt": "2020-07-27T20:13:08",
-        "date_modified": "2020-07-27T20:13:08",
-        "date_modified_gmt": "2020-07-27T20:13:08",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Sliesse_100mm_Suede_Cork-Heel_Platform-1.jpg",
-        "name": "Sliesse_100mm_Suede_Cork-Heel_Platform (1)",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Sliesse_100mm_Suede_Cork-Heel_Platform-1.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -366,10 +318,6 @@
     "price": "123.99",
     "regular_price": "123.99",
     "sale_price": "",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>123.99</span>",
     "on_sale": false,
     "purchasable": true,
@@ -384,7 +332,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -423,18 +370,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 36,
-        "date_created": "2020-07-27T20:13:11",
-        "date_created_gmt": "2020-07-27T20:13:11",
-        "date_modified": "2020-07-27T20:13:11",
-        "date_modified_gmt": "2020-07-27T20:13:11",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Grey_Wool_Sports_Coat.jpg",
-        "name": "Grey_Wool_Sports_Coat",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Grey_Wool_Sports_Coat.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -479,10 +415,6 @@
     "price": "167.99",
     "regular_price": "167.99",
     "sale_price": "",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<span class='woocommerce-Price-amount-amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>167.99</span>",
     "on_sale": false,
     "purchasable": true,
@@ -497,7 +429,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -539,18 +470,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 22,
-        "date_created": "2020-07-27T20:13:07",
-        "date_created_gmt": "2020-07-27T20:13:07",
-        "date_modified": "2020-07-27T20:13:07",
-        "date_modified_gmt": "2020-07-27T20:13:07",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/bf7ab2288e23cd4837b8a6cf2b554c9d.jpg",
-        "name": "bf7ab2288e23cd4837b8a6cf2b554c9d",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/bf7ab2288e23cd4837b8a6cf2b554c9d.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -595,10 +515,6 @@
     "price": "130",
     "regular_price": "130",
     "sale_price": "",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>130.00</span>",
     "on_sale": false,
     "purchasable": true,
@@ -613,7 +529,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -648,18 +563,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 20,
-        "date_created": "2020-07-27T20:13:06",
-        "date_created_gmt": "2020-07-27T20:13:06",
-        "date_modified": "2020-07-27T20:13:06",
-        "date_modified_gmt": "2020-07-27T20:13:06",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Pink_Blazer.jpg",
-        "name": "Pink_Blazer",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Pink_Blazer.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -704,10 +608,6 @@
     "price": "180",
     "regular_price": "180",
     "sale_price": "",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<span class=woocommerce-Price-amount amount><span class=woocommerce-Price-currencySymbol>&#36;</span>180.00</span>",
     "on_sale": false,
     "purchasable": true,
@@ -722,7 +622,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -757,18 +656,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 33,
-        "date_created": "2020-07-27T20:13:10",
-        "date_created_gmt": "2020-07-27T20:13:10",
-        "date_modified": "2020-07-27T20:13:10",
-        "date_modified_gmt": "2020-07-27T20:13:10",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/c0dc3315cd99b3e0b82cf30444afcc3c.jpg",
-        "name": "c0dc3315cd99b3e0b82cf30444afcc3c",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/c0dc3315cd99b3e0b82cf30444afcc3c.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -813,10 +701,6 @@
     "price": "123.78",
     "regular_price": "167.99",
     "sale_price": "123.78",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<del><span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>167.99</span></del> <ins><span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>123.78</span></ins>",
     "on_sale": true,
     "purchasable": true,
@@ -831,7 +715,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -866,18 +749,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 37,
-        "date_created": "2020-07-27T20:13:11",
-        "date_created_gmt": "2020-07-27T20:13:11",
-        "date_modified": "2020-07-27T20:13:11",
-        "date_modified_gmt": "2020-07-27T20:13:11",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Konan_Trim_Fit_Windowpane_Wool_Sport_Coat_In_Grey.jpg",
-        "name": "Konan_Trim_Fit_Windowpane_Wool_Sport_Coat_In_Grey",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/Konan_Trim_Fit_Windowpane_Wool_Sport_Coat_In_Grey.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
@@ -922,10 +794,6 @@
     "price": "100",
     "regular_price": "120",
     "sale_price": "100",
-    "date_on_sale_from": null,
-    "date_on_sale_from_gmt": null,
-    "date_on_sale_to": null,
-    "date_on_sale_to_gmt": null,
     "price_html": "<del><span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>120.00</span></del> <ins><span class='woocommerce-Price-amount amount'><span class='woocommerce-Price-currencySymbol'>&#36;</span>100.00</span></ins>",
     "on_sale": true,
     "purchasable": true,
@@ -940,7 +808,6 @@
     "tax_status": "taxable",
     "tax_class": "",
     "manage_stock": false,
-    "stock_quantity": null,
     "stock_status": "instock",
     "backorders": "no",
     "backorders_allowed": false,
@@ -993,18 +860,7 @@
       }
     ],
     "tags": [],
-    "images": [
-      {
-        "id": 39,
-        "date_created": "2020-07-27T20:13:11",
-        "date_created_gmt": "2020-07-27T20:13:11",
-        "date_modified": "2020-07-27T20:13:11",
-        "date_modified_gmt": "2020-07-27T20:13:11",
-        "src": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/blue-dress.jpg",
-        "name": "blue dress",
-        "alt": ""
-      }
-    ],
+    "image": "https://woocommerce-445662-1395830.cloudwaysapps.com/wp-content/uploads/2020/07/blue-dress.jpg",
     "attributes": [],
     "default_attributes": [],
     "variations": [],
