@@ -1500,7 +1500,7 @@
         "slug": "night-dress"
       }
     ],
-    "image": "a-product-images.s3.us-east-2.amazonaws.com/a2998019ecc8442bbaf801d7a8ab8e66.jpg",
+    "image": "https://corseta-product-images.s3.us-east-2.amazonaws.com/a2998019ecc8442bbaf801d7a8ab8e66.jpg",
     "attributes": [
     ],
     "default_attributes": [
